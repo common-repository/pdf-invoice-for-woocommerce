@@ -1,0 +1,228 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PDF Invoice for Woocommerce\n"
+"POT-Creation-Date: 2022-08-09 16:53+0530\n"
+"PO-Revision-Date: 2022-08-09 16:55+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: invoice-for-wc.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: classes/wexp-hub-invoice-settings.php:13
+msgid "Invoice"
+msgstr ""
+
+#: classes/wexp-hub-invoice-settings.php:34
+msgid "Invoice Template"
+msgstr ""
+
+#: classes/wexp-hub-invoice-settings.php:35
+msgid "Use template to generate pdf invoice."
+msgstr ""
+
+#: classes/wexp-hub-invoice-settings.php:47
+msgid "Sequential Invoice Number"
+msgstr ""
+
+#: classes/wexp-hub-invoice-settings.php:48
+msgid "generate sequential invoice number for PDF."
+msgstr ""
+
+#: classes/wexp-hub-invoice-settings.php:58
+msgid "Invoice Number Start"
+msgstr ""
+
+#: classes/wexp-hub-invoice-settings.php:59
+msgid "Start sequential invoice number from."
+msgstr ""
+
+#: classes/wexp-hub-invoice-settings.php:70
+msgid "Add VAT Number"
+msgstr ""
+
+#: classes/wexp-hub-invoice-settings.php:71
+msgid "Add VAT number Input on Checkout Page."
+msgstr ""
+
+#: classes/wexp-hub-invoice-settings.php:85
+msgid "Your Company Logo"
+msgstr ""
+
+#: classes/wexp-hub-invoice-settings.php:86
+msgid ""
+"URL to an image you want to display as logo in PDF Invoice. Upload images "
+"using the media uploader (Admin > Media)."
+msgstr ""
+
+#: classes/wexp-hub-invoice-settings.php:97
+#: classes/wexp-hub-invoice-settings.php:102
+msgid "Your Company Name"
+msgstr ""
+
+#: classes/wexp-hub-invoice-settings.php:98
+msgid "Your Company Name in Invoice."
+msgstr ""
+
+#: classes/wexp-hub-invoice-settings.php:109
+#: classes/wexp-hub-invoice-settings.php:114
+msgid "Your Company Address"
+msgstr ""
+
+#: classes/wexp-hub-invoice-settings.php:110
+msgid "Your Company Address in Invoice."
+msgstr ""
+
+#: classes/wexp-hub-invoice-settings.php:124
+#: classes/wexp-hub-invoice-settings.php:129
+msgid "Your Company Email"
+msgstr ""
+
+#: classes/wexp-hub-invoice-settings.php:125
+msgid "Your Company Email in Invoice."
+msgstr ""
+
+#: classes/wexp-hub-invoice-settings.php:136
+#: classes/wexp-hub-invoice-settings.php:141
+msgid "Your Company Phone"
+msgstr ""
+
+#: classes/wexp-hub-invoice-settings.php:137
+msgid "Your Company Email in Phone."
+msgstr ""
+
+#: classes/wexp-hub-invoice-settings.php:148
+msgid "Footer Note"
+msgstr ""
+
+#: classes/wexp-hub-invoice-settings.php:149
+msgid "Invoice Footer Note."
+msgstr ""
+
+#: classes/wexp-hub-invoice-settings.php:153 invoice-for-wc.php:125
+msgid "Thank you for your order."
+msgstr ""
+
+#: classes/wexp-hub-invoice-settings.php:160
+msgid "Footer Copyright Info"
+msgstr ""
+
+#: classes/wexp-hub-invoice-settings.php:161
+msgid "Invoice Footer Copyright Info."
+msgstr ""
+
+#: classes/wexp-hub-invoice-settings.php:165 invoice-for-wc.php:126
+msgid "© Copyright {your_company_name} {current_year}, All Rights Reserved."
+msgstr ""
+
+#: classes/wexp-hub-invoice.php:131
+msgid "PAID"
+msgstr ""
+
+#: classes/wexp-hub-invoice.php:135
+msgid "Invoice Date:"
+msgstr ""
+
+#: classes/wexp-hub-invoice.php:138
+msgid "Order Number:"
+msgstr ""
+
+#: classes/wexp-hub-invoice.php:141
+msgid "Invoice No:"
+msgstr ""
+
+#: classes/wexp-hub-invoice.php:145 classes/wexp-hub-invoice.php:149
+#: templates/template-1.php:265
+msgid "Amount Due:"
+msgstr ""
+
+#: includes/setting-fields.php:9
+msgid "Generate Invoice"
+msgstr ""
+
+#: includes/setting-fields.php:22
+msgid "Generate invoice if order status is any of selected above."
+msgstr ""
+
+#: includes/setting-fields.php:26
+msgid "Mark as Paid"
+msgstr ""
+
+#: includes/setting-fields.php:39
+msgid "Mark invoice as paid if order status is any of selected above."
+msgstr ""
+
+#: includes/setting-fields.php:43
+msgid "Attach to Emails"
+msgstr ""
+
+#: includes/setting-fields.php:55
+msgid "Attach invoice to the above selected emails."
+msgstr ""
+
+#: invoice-for-wc.php:64
+msgid "Settings"
+msgstr ""
+
+#: invoice-for-wc.php:170
+msgid "VAT Number"
+msgstr ""
+
+#: templates/template-1.php:167
+msgid "INVOICE"
+msgstr ""
+
+#: templates/template-1.php:180
+msgid "BILL TO"
+msgstr ""
+
+#: templates/template-1.php:203
+msgid "Item"
+msgstr ""
+
+#: templates/template-1.php:204
+msgid "Qty"
+msgstr ""
+
+#: templates/template-1.php:205
+msgid "Unit Price"
+msgstr ""
+
+#: templates/template-1.php:206
+msgid "Total"
+msgstr ""
+
+#: templates/template-1.php:228
+msgid "SKU:"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "PDF Invoice for Woocommerce"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://wpexpertshub.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Automatically generate and attach customizable PDF Invoices to WooCommerce "
+"order emails."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Vikram S"
+msgstr ""
